@@ -1,0 +1,4 @@
+mahjong_rl_env/
+logs/
+__pycache__/
+checkpoints/
